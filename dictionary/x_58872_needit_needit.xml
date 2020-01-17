@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="2" type="collection">
+        <element label="Example Numeric" max_length="40" name="example_numeric" type="integer"/>
+        <element label="MY Field" max_length="255" name="my_field" type="string"/>
+    </element>
+</database>
